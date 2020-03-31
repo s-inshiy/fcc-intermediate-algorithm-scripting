@@ -1,2 +1,2 @@
-# fcc-intermediate-algorithm-scripting
-Intermediate Algorithm Scripting Challenges
+# Intermediate Algorithm Scripting Challenges
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
