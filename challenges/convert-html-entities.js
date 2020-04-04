@@ -14,3 +14,5 @@ const replaceBy = {
 
 const convertHTML = str =>
   str.replace(/&|<|>|"|\'/gi, symbol => replaceBy[symbol]);
+
+console.log(convertHTML("Dolce & Gabbana"));
