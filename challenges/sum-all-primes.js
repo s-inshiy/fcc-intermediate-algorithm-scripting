@@ -23,7 +23,6 @@ const sumPrimes = num => {
         if ((number / oddNumbers[i]) % 1 === 0) {
           oddNumbers.splice(oddNumbers.indexOf(number), 1);
           i--;
-          return number;
         }
       }
     });
